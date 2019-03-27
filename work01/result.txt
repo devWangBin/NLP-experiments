@@ -1,0 +1,15 @@
+uni_gram_result:
+
+Total number of train words:1200917
+number of dictionary:12775
+log_PT:-110640.21455178225
+test_num:12934
+the test PPL score is:375.90253
+
+bigram_result:£¨+1 smothing£©
+V:12775
+get here~~~
+pop one ...
+log_PT:-80997.92740800713
+test_num:14142
+the test PPL score is:52.98358
